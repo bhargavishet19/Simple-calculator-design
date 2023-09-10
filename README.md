@@ -1,1 +1,1 @@
-# Simple-calculator-design designed useing html ana css
+# Simple-calculator-design -fornt end design using html ana css
